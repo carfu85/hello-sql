@@ -42,3 +42,11 @@ def print_user(user):
 
 print_user("Brais")
 # print_user("'; UPDATE users SET age = '15' WHERE user_id = 1; --")
+
+
+POSTGRESQL_ADDON_HOST=bhbju4gwhychlwvc2wib-postgresql.services.clever-cloud.com
+POSTGRESQL_ADDON_DB=bhbju4gwhychlwvc2wib
+POSTGRESQL_ADDON_USER=ura07ny6utvs8freweuy
+POSTGRESQL_ADDON_PORT=50013
+POSTGRESQL_ADDON_PASSWORD=nCsAGy9JomO2sz72IiVD7p4hxv24uY
+POSTGRESQL_ADDON_URI=postgresql://ura07ny6utvs8freweuy:nCsAGy9JomO2sz72IiVD7p4hxv24uY@bhbju4gwhychlwvc2wib-postgresql.services.clever-cloud.com:5432/bhbju4gwhychlwvc2wib
